@@ -8,6 +8,13 @@ body {
     color: white;
     overflow: auto;
   }
+  .bgimg{
+    background-image: url('../img2.png'); 
+    background-size: cover;
+    background-repeat: no-repeat; 
+    width: 100vw;
+    height: 100vh;
+   }
   .say{
     font-size:22px;
     font-weight: 700;
